@@ -1,6 +1,6 @@
 def my_superfunction():
     print('What an awesome print!')
-    # автор программ Иван Иванов
+    print("My name is Masha")
 
 
 def main():
@@ -13,4 +13,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    print(1)
